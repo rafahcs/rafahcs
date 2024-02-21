@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafahcs](https://github.com/rafahcs)
 
-- 📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📫 How to reach me ![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
