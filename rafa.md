@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafahcs](https://github.com/rafahcs)
 
-- 📫 How to reach me ![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+- 📫 How to reach me rjrafahenrique@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-henrique-carvalho-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-henrique-carvalho-silva/" height="30" width="40" /></a>
