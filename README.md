@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Henrique</h1>
-<h3 align="center">A passionate student Computer Science</h3>
+<h3 align="center">A Computer Science student passionate about technology</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
+-💻 I am interested in full stack web development and data science careers. I am looking to inform myself and develop projects to make the decision between the two careers.
+
+-📚  I’m currently learning **Python, JavaScript, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafahcs](https://github.com/rafahcs)
 
