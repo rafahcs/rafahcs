@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafahcs](https://github.com/rafahcs)
 
-- 📫 How to reach me rjrafahenrique@gmail.com
+- 📫 How to reach me rafaeldevpsp@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" target="blank">
