@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafael Henrique</h1>
-<h3 align="center">Welcome to my portfolio profile</h3>
+# Hi 👋, I'm Rafael Henrique
+## Welcome to my portfolio profile
 
 -💻 I am a Computer Science student dedicated to learning and developing solutions in code. I have an interest in and skills in software development and algorithms.
 
@@ -8,28 +8,29 @@
 - 👨‍💻 All of my projects are available at [https://github.com/rafahcs](https://github.com/rafahcs)
 
 - 📫 How to reach me rafaeldevpsp@gmail.com
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" height="30" width="40" />
+  </a>
     
   <a href="https://discord.gg/https://discord.com/channels/@me" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" />
   </a>
   
   <a href="https://www.youtube.com/@rafaelhenrique571" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rafaelhenrique571" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rafaelhenrique571" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   
   <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
   <a href="" target="_blank" rel="noreferrer"> 
@@ -56,7 +57,7 @@
 <h3 align="left">Frameworks and Tools</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 
   <a href="" target="_blank" rel="noreferrer"> 
