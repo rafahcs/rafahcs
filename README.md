@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rafael Henrique
+# Hi, I'm Rafael Henrique 👋
 ## Welcome to my portfolio profile
 
 -💻 I am a Computer Science student dedicated to learning and developing solutions in code. I have an interest in and skills in software development and algorithms.
