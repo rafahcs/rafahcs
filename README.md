@@ -9,78 +9,39 @@
 
 - 📫 How to reach me rafaeldevpsp@gmail.com
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/" height="30" width="40" />
-  </a>
-    
-  <a href="https://discord.gg/https://discord.com/channels/@me" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.youtube.com/@rafaelhenrique571" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rafaelhenrique571" height="30" width="40" />
-  </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-de-carvalho-silva/) 
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rafahe/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaeldevpsp@gmail.com)
 
-  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
+### Languages 
 
-  <a href="/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/GO.svg" alt="go" width="40" height="40"/> 
-  </a> 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Frameworks and Tools</h3>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+### Frameworks
 
-  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MongoDB.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/React.svg" alt="React" width="40" height="40" />
-  </a>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Redux.svg" alt="Redux" width="40" height="40" />
-  </a>
+### Tools 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material](https://img.shields.io/badge/Material%20Design%20Icons-2196F3.svg?style=for-the-badge&logo=Material-Design-Icons&logoColor=white)
 
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Material%20UI.svg" alt="Material UI" width="40" height="40" />
-  </a>
+### Version Control
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/ffe509a6f406ebfddc805304cf29bb60df26a701/Light/PostgreSQL.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-</p>
+### IDE
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
